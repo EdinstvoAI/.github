@@ -51,15 +51,6 @@ all of it, so the team stops switching between ten tabs.
 
 <br>
 
-## Principles
-
-> **Your data stays yours.** Files over databases, local first, the network only when you ask for it.
->
-> **Design is the product.** Every screen starts in Figma and ships pixel for pixel.
->
-> **Done means tested.** Build, tests, a screenshot next to the design. Then it ships.
-
-<br>
 
 ---
 
